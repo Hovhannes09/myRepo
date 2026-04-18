@@ -49,6 +49,9 @@ const server = http.createServer(async function (req, res) {
   }
 });
 
+console.log('Hello');
+
+
 server.listen(8080, function () {
   console.log('Server listening on port 8080');
 });
