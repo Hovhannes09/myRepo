@@ -65,8 +65,7 @@ server.listen(8080, function () {
 console.log('Beno');
 
 console.log('i added log from dev');
-<<<<<<< HEAD
 console.log('Beno');
-=======
+console.log('Beno');
 console.log('Hovo added log from dev');
->>>>>>> 1d03a6cfd008954084fae92a6d3f843d01239761
+
