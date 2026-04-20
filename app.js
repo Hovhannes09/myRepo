@@ -51,6 +51,7 @@ const server = http.createServer(async function (req, res) {
 
 console.log('Hello');
 console.log('Hello from Ben');
+console.log('Hello from Ben');
 
 
 server.listen(8080, function () {
