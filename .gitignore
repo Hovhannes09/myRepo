@@ -2,4 +2,8 @@ node_modules
 .env
 .env.prod
 yarn.lock
+<<<<<<< HEAD
 .idea
+=======
+.idea
+>>>>>>> 25cb5eb6e33c29c098ac4f5795c6f0c5b2869a6b
